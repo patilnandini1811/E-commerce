@@ -9,25 +9,21 @@ https://github.com/patilnandini1811/E-commerce
 
 🚀 Run Locally
 1️⃣ Clone the project
-bash
-Copy
-Edit
+
 git clone https://github.com/patilnandini1811/E-commerce.git
+
 2️⃣ Go to the project directory
-bash
-Copy
-Edit
+
 cd E-commerce
+
 3️⃣ Install dependencies
-bash
-Copy
-Edit
+
+
 npm install
 4️⃣ Start the development server
-bash
-Copy
-Edit
+
 npm run dev
+
 The application should now be running at:
 http://localhost:5173 (Vite default port)
 
