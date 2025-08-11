@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Girl's Bag",
+      "price": 19.99,
+      "image": "/images/bag.jpg",
+      "variants": [
+        { "id": 1, "label": "Red / M", "inStock": true },
+        { "id": 2, "label": "Red / L", "inStock": false }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Black Frock",
+      "price": 59.99,
+      "image": "/images/frock1.jpg",
+      "variants": [
+        { "id": 1, "label": "Black / 8", "inStock": true },
+        { "id": 2, "label": "Black / 9", "inStock": true }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Frock",
+      "price": 45,
+      "image": "/images/frock2.jpg",
+      "variants": [
+        { "id": 1, "label": "Black / 8", "inStock": true },
+        { "id": 2, "label": "Black / 9", "inStock": false }
+      ]
+    },
+    {
+        "id": 4,
+        "name": "Sandle",
+        "price": 45,
+        "image": "/images/sandle.jpg",
+        "variants": [
+            { "id": 1, "label": "Pink / 8", "inStock": true },
+            { "id": 2, "label": "Black / 9", "inStock": true }
+        ]
+      },
+      {
+        "id": 5,
+        "name": " Backpack",
+        "price": 45,
+        "image": "/images/backpack.jpg",
+        "variants": [
+            { "id": 1, "label": "Brown / 8", "inStock": true },
+            { "id": 2, "label": "Black / 9", "inStock": true }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Girls Backpack",
+        "price": 45,
+        "image": "/images/girlbackpack.jpg",
+        "variants": [
+            { "id": 1, "label": "pink / 8", "inStock": true },
+            { "id": 2, "label": "purple / 9", "inStock": true }
+        ]
+      }
+  ]
+  
