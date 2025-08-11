@@ -101,13 +101,13 @@
     font-size: 0.95rem;
     font-weight: 600;
     cursor: pointer;
-    background-color: #2563eb;
+    background-color:  #dd2d93;
     color: #fff;
     transition: background-color 0.2s ease, transform 0.1s ease;
   }
   
   .addToCartButton:hover:not(:disabled) {
-    background-color: #1e40af;
+    background-color:  #dd2d93;
     transform: translateY(-1px);
   }
   
