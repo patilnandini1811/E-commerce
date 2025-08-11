@@ -1,13 +1,13 @@
 [
     {
-      "id": 1,
-      "name": "Girl's Bag",
-      "price": 19.99,
-      "image": "/images/bag.jpg",
-      "variants": [
-        { "id": 1, "label": "Red / M", "inStock": true },
-        { "id": 2, "label": "Red / L", "inStock": false }
-      ]
+        "id": 1,
+        "name": "Sandle",
+        "price": 45,
+        "image": "/images/sandle.jpg",
+        "variants": [
+            { "id": 1, "label": "Pink / 8", "inStock": true },
+            { "id": 2, "label": "Black / 9", "inStock": true }
+        ]
     },
     {
       "id": 2,
@@ -31,12 +31,12 @@
     },
     {
         "id": 4,
-        "name": "Sandle",
-        "price": 45,
-        "image": "/images/sandle.jpg",
+        "name": "Girl's Bag",
+        "price": 19.99,
+        "image": "/images/bag.jpg",
         "variants": [
-            { "id": 1, "label": "Pink / 8", "inStock": true },
-            { "id": 2, "label": "Black / 9", "inStock": true }
+          { "id": 1, "label": "Red / M", "inStock": true },
+          { "id": 2, "label": "Red / L", "inStock": false }
         ]
       },
       {
@@ -51,7 +51,7 @@
       },
       {
         "id": 6,
-        "name": "Girls Backpack",
+        "name": "Girl's Backpack",
         "price": 45,
         "image": "/images/girlbackpack.jpg",
         "variants": [
@@ -60,4 +60,5 @@
         ]
       }
   ]
+  
   
